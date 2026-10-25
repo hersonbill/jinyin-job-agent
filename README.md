@@ -8,6 +8,8 @@
 
 **[下载 Windows 版](https://github.com/hersonbill/jinyin-job-agent/releases/latest) · [查看所有版本](https://github.com/hersonbill/jinyin-job-agent/releases)**
 
+![实际程序首页：未导入个人资料的独立测试环境](workbench.png)
+
 ## 如何体验
 
 1. 在 Releases 下载 `Jinyin-Windows-x64-v0.3.0.zip`，完整解压到一个文件夹。
